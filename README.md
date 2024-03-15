@@ -1,7 +1,7 @@
 <div align="center">
       <h2>
         <a
-          href="https://componentes-react.netlify.app/"
+          href="https://componentes-react2.netlify.app/"
           target="_blank"
           >Componentes de React 2</a
         >
