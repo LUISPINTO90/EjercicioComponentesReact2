@@ -1,0 +1,23 @@
+.task-list-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .task-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .completed {
+    opacity: 0.5; /* Añadir transparencia a tareas completadas */
+  }
+  
+  .task-checkbox {
+    margin-right: 10px;
+  }
+  
+  .task-title {
+    flex: 1; /* Hacer que el título de la tarea ocupe todo el espacio disponible */
+  }
+  
